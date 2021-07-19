@@ -1,0 +1,5 @@
+-> First extract .rar file and open it in android studio.
+-> Take USB cable to run the appication in mobile.
+-> Turn on developer option then turn on USB tethering.
+-> Check in android studio that your mobile is connected or not.
+-> If your mobile is successfully connected in android studio then run the application.
